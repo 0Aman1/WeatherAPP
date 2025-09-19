@@ -1,6 +1,7 @@
 # Weather Chat App
 
 A modern, interactive weather chat application built with React and Vite. Chat with an AI agent to get real-time weather information for cities worldwide.
+https://weather-app-x-91.vercel.app/
 
 ## Features
 
